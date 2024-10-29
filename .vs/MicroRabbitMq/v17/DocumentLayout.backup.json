@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\webapplicationnotifyer\\consumer\\rabbitconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|solutionrelative:webapplicationnotifyer\\consumer\\rabbitconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\webapplicationnotifyer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|solutionrelative:webapplicationnotifyer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\userservice\\service\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|solutionrelative:userservice\\service\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\webapplicationnotifyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|solutionrelative:webapplicationnotifyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884B81D8-4666-42C0-B038-335E080A030C}|Shared\\Shared.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\shared\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884B81D8-4666-42C0-B038-335E080A030C}|Shared\\Shared.csproj|solutionrelative:shared\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884B81D8-4666-42C0-B038-335E080A030C}|Shared\\Shared.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{884B81D8-4666-42C0-B038-335E080A030C}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\userservice\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|solutionrelative:userservice\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\userservice\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|solutionrelative:userservice\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60583D18-CBFD-4A85-AC27-25D5E108F2CD}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|c:\\users\\eduardocarneirodasil\\source\\repos\\microrabbitmq\\webapplicationnotifyer\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2687968-C939-44FE-BE82-AE09CB3D7D45}|WebApplicationNotifyer\\WebApplicationNotifyer.csproj|solutionrelative:webapplicationnotifyer\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "WebApplicationNotifyer\\Service\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\Service\\NotificationService.cs",
+              "RelativeToolTip": "WebApplicationNotifyer\\Service\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:56:05.312Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\Consumer\\RabbitConsumer.cs",
+              "RelativeDocumentMoniker": "WebApplicationNotifyer\\Consumer\\RabbitConsumer.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\Consumer\\RabbitConsumer.cs",
+              "RelativeToolTip": "WebApplicationNotifyer\\Consumer\\RabbitConsumer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:51:13.803Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Service\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "UserService\\Service\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Service\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "UserService\\Service\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:36:39.04Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T23:27:06.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNotification.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\Shared\\UserNotification.cs",
+              "RelativeDocumentMoniker": "Shared\\UserNotification.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\Shared\\UserNotification.cs",
+              "RelativeToolTip": "Shared\\UserNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:10:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationNotifyer\\Program.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\Program.cs",
+              "RelativeToolTip": "WebApplicationNotifyer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:24:59.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationNotifyer\\appsettings.json",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\WebApplicationNotifyer\\appsettings.json",
+              "RelativeToolTip": "WebApplicationNotifyer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T22:41:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shared",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T23:09:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:46:52.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Domain\\User.cs",
+              "RelativeToolTip": "UserService\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:43:05.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UserService\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "UserService\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:20:04.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Users\\EduardoCarneirodaSil\\source\\repos\\MicroRabbitMq\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:45:23.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

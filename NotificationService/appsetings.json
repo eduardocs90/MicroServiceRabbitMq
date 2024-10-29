@@ -1,0 +1,9 @@
+﻿{
+  "RabbitMQ": {
+    "Host": "localhost", // Ou o nome do container do RabbitMQ se estiver usando Docker
+    "QueueName": "user_notifications",
+    "Port": 5672,
+    "Username": "guest",
+    "Password": "guest"
+  }
+}
